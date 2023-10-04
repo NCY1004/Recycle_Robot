@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Can (158).jpg</filename>
+	<path>C:\1_pychamproject\work\models\research\object_detection\images\train\Can (158).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>632</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>21</ymin>
+			<xmax>373</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Plastic (9).jpg</filename>
+	<path>C:\1_pychamproject\work\models\research\object_detection\images\test\Plastic (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>632</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>38</ymin>
+			<xmax>410</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

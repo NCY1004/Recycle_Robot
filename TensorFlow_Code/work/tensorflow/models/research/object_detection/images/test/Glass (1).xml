@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Glass (1).jpg</filename>
+	<path>C:\1_pychamproject\work\models\research\object_detection\images\test\Glass (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>476</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>6</ymin>
+			<xmax>365</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

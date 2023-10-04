@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Glass (94).jpg</filename>
+	<path>C:\1_pychamproject\work\models\research\object_detection\images\train\Glass (94).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>38</ymin>
+			<xmax>359</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

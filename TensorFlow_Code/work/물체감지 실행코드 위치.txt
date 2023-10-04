@@ -1,0 +1,5 @@
+﻿-실행코드
+~/work/tensorflow/models/research/object_detection$ sudo python object_detection_tutorial_Webcam_1.py
+
+-객체 인식시 Uart 전송코드
+/tensorflow/models/research/object_detection\utils\visualization_utils.py
